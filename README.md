@@ -52,4 +52,5 @@ Projeyi çalıştırdıktan sonra [Swagger UI](http://localhost:8080/swagger-ui.
 
 **Özetle:** Spring Boot ve Kafka ikilisi, mikroservis mimarilerinde asenkron iletişim kurmak için harika bir çözüm sunuyor. Bu demo projesiyle temel bir akışı kurmuş olduk. 
 
-Sen de kendi projende Kafka'yı hangi senaryolarda kullanmayı düşünüyorsun? Yorumlarda buluşalım! 🚀
+Sen de kendi projende Kafka'yı hangi senaryolarda kullanmayı düşünüyorsun? 
+
